@@ -5,6 +5,6 @@ This template provides a minimal setup to get React working in Vite with HMR and
 
 ## Website Link 
 
-https://64dec3d2c6886d386f4d57de--rad-pony-1e4273.netlify.app/
+https://64dec8a6ff72dd39c83f5000--venerable-paletas-b11861.netlify.app/
 
 ----------------------------------------------------------------
