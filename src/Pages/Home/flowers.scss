@@ -1,0 +1,30 @@
+@font-face {
+    font-family: 'Inter-Medium';
+    src: url(../../assets/Fonts/Inter-Medium.ttf);
+}
+
+@font-face {
+    font-family: "Inter-Regular";
+    src: url(../../assets/Fonts/Inter-Regular.ttf);
+}
+
+@font-face {
+    font-family: "Roboto-Medium";
+    src: url(../../assets/Fonts/Roboto-Medium.ttf);
+}
+
+.carousel_flower {
+    background-image: url(../../assets/images/flower_carousel.png);
+
+    & h3 {
+        font-family: "Roboto-Medium";
+    }
+
+    & p, button {
+        font-family: "Inter-Medium";
+    }
+}
+
+NavLink {
+    font-family: "Inter-Regular";
+}

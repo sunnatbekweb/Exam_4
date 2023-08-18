@@ -1,0 +1,40 @@
+@font-face {
+    font-family: "Inter-Regular";
+    src: url(../../assets/Fonts/Inter-Regular.ttf);
+}
+
+@font-face {
+    font-family: "Inter-Medium";
+    src: url(../../assets/Fonts/Inter-Medium.ttf);
+}
+
+h5 {
+    font-family: "Inter-Regular";
+}
+
+a {
+    font-family: "Inter-Medium";
+
+    &:hover {
+        color: #82828B;
+        border-bottom: 2px solid #82828B;
+    }
+}
+
+.social {
+    border: none !important;
+
+    & img:hover {
+        transform: scale(110%);
+        transition-duration: 0.3s;
+    }
+
+    & img:active {
+        transform: scale(90%);
+        transition-duration: 0.3s;
+    }
+}
+
+p {
+    font-family: "Inter-Regular";
+}
